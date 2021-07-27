@@ -1,0 +1,8 @@
+kingdom/AnimalTest.java
+ kingdom.AnimalTest
+kingdom/AnimalControllerTest.java
+ kingdom.AnimalControllerTest
+query/AnimalQueryTest.java
+ query.AnimalQueryTest
+kingdom/AnimalServiceTest.java
+ kingdom.AnimalServiceTest

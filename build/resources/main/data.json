@@ -1,0 +1,30 @@
+{
+  "cat": {
+    "message": "meow",
+    "isAquatic": false,
+    "isAerial": false,
+    "isExtraterrestrial": false,
+    "isMythological": false
+  },
+  "dog": {
+    "message": "woof",
+    "isAquatic": false,
+    "isAerial": false,
+    "isExtraterrestrial": false,
+    "isMythological": false
+  },
+  "cow": {
+    "message": "moo",
+    "isAquatic": false,
+    "isAerial": false,
+    "isExtraterrestrial": false,
+    "isMythological": false
+  },
+  "unicorn": {
+    "message": "Unicorns are not real",
+    "isAquatic": false,
+    "isAerial": false,
+    "isExtraterrestrial": false,
+    "isMythological": true
+  }
+}

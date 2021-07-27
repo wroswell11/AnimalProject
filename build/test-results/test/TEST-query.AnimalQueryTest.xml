@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="query.AnimalQueryTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2021-07-27T08:40:12" hostname="DESKTOP-808THQ7" time="0.204">
+  <properties/>
+  <testcase name="processEntries_processesOptionsWithinMultipleEntries()" classname="query.AnimalQueryTest" time="0.103"/>
+  <testcase name="sayHello_returnsAnimalMessage_ifAnimalIsReal()" classname="query.AnimalQueryTest" time="0.01"/>
+  <testcase name="checkForCLIOptions_doesNothing_ifNoOptionsEntered()" classname="query.AnimalQueryTest" time="0.006"/>
+  <testcase name="checkForCLIOptions_onlyAcceptsOneOptionAtATime_ifMultipleOptionsEntered()" classname="query.AnimalQueryTest" time="0.006"/>
+  <testcase name="performOperation_performsRemoveOperation_ifRemoveOptionIsEntered()" classname="query.AnimalQueryTest" time="0.011"/>
+  <testcase name="processEntries_processesEntryWithOption()" classname="query.AnimalQueryTest" time="0.008"/>
+  <testcase name="processEntries_processesSingleNormalEntry()" classname="query.AnimalQueryTest" time="0.003"/>
+  <testcase name="performOperation_performsUpdateOperation_ifUpdateOptionIsEntered()" classname="query.AnimalQueryTest" time="0.008"/>
+  <testcase name="performOperation_performsResetOperation_ifResetOptionIsEntered()" classname="query.AnimalQueryTest" time="0.005"/>
+  <testcase name="performOperation_doesNothing_ifOperationNotSupported()" classname="query.AnimalQueryTest" time="0.005"/>
+  <testcase name="checkForCLIOptions_performsOperation_ifReady()" classname="query.AnimalQueryTest" time="0.005"/>
+  <testcase name="sayHello_returnsNotRealMessage_ifAnimalIsNotReal()" classname="query.AnimalQueryTest" time="0.005"/>
+  <testcase name="processEntries_processesMultipleOptionsWithinMultipleEntries()" classname="query.AnimalQueryTest" time="0.006"/>
+  <testcase name="performOperation_performsAddOperation_ifAddOptionIsEntered()" classname="query.AnimalQueryTest" time="0.007"/>
+  <testcase name="processEntries_processesMultipleNormalEntries()" classname="query.AnimalQueryTest" time="0.003"/>
+  <system-out><![CDATA[Cannot run multiple commands at once
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

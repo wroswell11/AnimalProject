@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="kingdom.AnimalServiceTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-07-27T08:40:12" hostname="DESKTOP-808THQ7" time="0.238">
+  <properties/>
+  <testcase name="saveCurrentDataMap_savesAnyChangesToDataJson()" classname="kingdom.AnimalServiceTest" time="0.174"/>
+  <testcase name="retrieveAnimal_returnsSpecifiedAnimal()" classname="kingdom.AnimalServiceTest" time="0.016"/>
+  <testcase name="loadPreliminaryData_populatesDataMap()" classname="kingdom.AnimalServiceTest" time="0.014"/>
+  <testcase name="removeAnimalType_removesAnimalTypeFromDataMap()" classname="kingdom.AnimalServiceTest" time="0.011"/>
+  <testcase name="addAnimalType_createsNewAnimalAndAddsToTheDataMap()" classname="kingdom.AnimalServiceTest" time="0.007"/>
+  <testcase name="resetAnimalData_overwritesCurrentAnimalDataFileWithDefaultDataFile()" classname="kingdom.AnimalServiceTest" time="0.01"/>
+  <system-out><![CDATA[[{"Xenomorph":{"message":"hiss","isAquatic":false,"isAerial":false,"isExtraterrestrial":true,"isMythological":false},"cat":{"message":"meow","isAquatic":false,"isAerial":false,"isExtraterrestrial":false,"isMythological":false},"cow":{"message":"moo","isAquatic":false,"isAerial":false,"isExtraterrestrial":false,"isMythological":false},"unicorn":{"message":"Unicorns are not real","isAquatic":false,"isAerial":false,"isExtraterrestrial":false,"isMythological":true},"dog":{"message":"woof","isAquatic":false,"isAerial":false,"isExtraterrestrial":false,"isMythological":false}}]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
